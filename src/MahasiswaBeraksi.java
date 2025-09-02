@@ -2,10 +2,10 @@ public class MahasiswaBeraksi {
     
     public static void main(String[] args) {
         
-        // Membuat objek dari class Mahasiswa
+        // Objek Mahasiswa
         Mahasiswa mhs = new Mahasiswa();
         
-        // Memanggil method-method yang ada di dalam class Mahasiswa
+        //Method Class Mahasiswa
         mhs.membaca();
         mhs.nyontek();
         mhs.modifikasi();
