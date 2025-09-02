@@ -2,13 +2,13 @@ public class DemoNilai {
 
     public static void main(String[] args) {
         
-        // Membuat objek dari class Nilai
+        // Objek Class Nilai
         Nilai nilaiMahasiswa = new Nilai();
         
-        // Memanggil method untuk memasukkan data
+        // Method
         nilaiMahasiswa.Nilai();
         
-        // Memanggil method untuk mencetak hasil
+        // Method -> hasil
         nilaiMahasiswa.CetakNilai();
     }
 }
