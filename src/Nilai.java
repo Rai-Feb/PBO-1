@@ -6,7 +6,7 @@ public class Nilai {
     double nilaiAbsen, nilaiTugas, nilaiUts, nilaiUas;
 
     public void Nilai() {
-        // Menggunakan Scanner untuk input data dari keyboard
+        // Scanner Input data
         Scanner input = new Scanner(System.in);
         System.out.print("Masukkan NIM: ");
         nim = input.nextLine();
